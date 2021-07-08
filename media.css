@@ -1,0 +1,355 @@
+/*Phone*/
+@media only screen and (max-width:320px) {
+    /*About*/
+        #about {
+            display: flex;
+            flex-direction: column;
+            border-top: 1px solid grey;
+            width: 100%;
+            height: 100vh;
+            justify-content: left;
+            align-items: center;
+        }
+    
+        .title-1 {
+            margin-top: 30vh;
+            margin-left: 0vh;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 400;
+        }
+        
+        .title-1 p:nth-child(1) {
+            font-size: 30px;
+        }
+        
+        .title-1 p:nth-child(2) {
+            font-size: 30px;
+        }
+        
+        .title-1 p:nth-child(3) {
+            font-size: 26px;
+        }
+
+        .title-1 img {
+            display: none;
+        }
+
+        .content-1 p:nth-child(1) {
+            font-size: 14.5px;
+            font-family: arial;
+            margin-left: 0vh;
+            margin-top: 2vh;
+        }
+
+        .scm {
+            display: flex;
+            flex-direction: row;
+            margin-left: 0vh;
+            margin-top: 0vh;
+        }
+
+        .scm a i {
+            font-size: 35px;
+            color:#000;
+            padding: 10px 10px;
+        }
+     
+    /*About*/
+
+    /*Education*/
+        #education {
+            display: flex;
+            flex-direction: column;
+            border-top: 1px solid grey;
+            width: 100%;
+            height: 100vh;
+            justify-content: left;
+            align-items: center;
+        }
+        
+        .title-2 {
+            font-size: 30px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 500;
+            margin-top: 34vh;
+        }
+        
+        .content-2 {
+            padding: 7px 0;
+            color: grey;
+        }
+        
+        .content-2 p:nth-child(1) {
+            font-size: 22px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 600;
+        }
+        
+        .content-2 p:nth-child(2) {
+            font-size: 22px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 600;
+        }
+        
+        .content-2 p:nth-child(3) {
+            font-size: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 500;
+        }
+    /*Education*/
+
+    /*Skills*/
+        #skills {
+            display: flex;
+            flex-direction: column;
+            border-top: 1px solid grey;
+            width: 100%;
+            height: 100vh;
+            justify-content: left;
+            align-items: center;
+        }
+        
+        .title-3 {
+            font-size: 35px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 500;
+            margin-top: 35vh;
+        }
+        
+        .content-3 {
+            font-size: 45px;
+            color: grey;
+        }
+        
+        .tools img {
+            width: 50px;
+            margin-top: 1vh;
+            margin-bottom: -1vh;
+        }
+    /*Skills*/
+
+    /*Projects*/
+        #projects {
+            display: flex;
+            flex-direction: column;
+            border-top: 1px solid grey;
+            width: 100%;
+            height: 100vh;
+            justify-content: left;
+            align-items: center;
+        }
+
+        .title-4 {
+            font-size: 30px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 500;
+            margin-top: 40vh;
+        }
+
+        .content-4 {
+            font-size: 25px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 550 ;
+        }
+    /*Projects*/
+
+    /*Experience*/
+        #experience {
+            display: flex;
+            flex-direction: column;
+            border-top: 1px solid grey;
+            width: 100%;
+            height: 100vh;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .title-5 {
+            font-size: 30px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 500;
+            text-align: center;
+            margin-top: -5vh;
+        }       
+    /*Experience*/
+}
+/*Phone*/
+
+
+/*Tablet*/
+@media only screen and (min-width:321px) and (max-width:768px) {
+    /*About*/
+        #about {
+            display: flex;
+            flex-direction: column;
+            border-top: 1px solid grey;
+            width: 100%;
+            height: 100vh;
+            justify-content: left;
+            align-items: center;
+        }
+    
+        .title-1 {
+            margin-top: 30vh;
+            margin-left: 0vh;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 400;
+        }
+        
+        .title-1 p:nth-child(1) {
+            font-size: 40px;
+        }
+        
+        .title-1 p:nth-child(2) {
+            font-size: 38px;
+        }
+        
+        .title-1 p:nth-child(3) {
+            font-size: 29px;
+        }
+
+        .title-1 img {
+            display: none;
+        }
+
+        .content-1 p:nth-child(1) {
+            font-size: 15.8px;
+            font-family: arial;
+            font-weight: 500;
+            margin-left: 0vh;
+            margin-top: 2vh;
+        }
+
+        .scm {
+            display: flex;
+            flex-direction: row;
+            margin-left: 0vh;
+            margin-top: 0vh;
+        }
+
+        .scm a i {
+            font-size: 35px;
+            color:#000;
+            padding: 10px 10px;
+        }
+     
+    /*About*/
+
+    /*Education*/
+        #education {
+            display: flex;
+            flex-direction: column;
+            border-top: 1px solid grey;
+            width: 100%;
+            height: 100vh;
+            justify-content: left;
+            align-items: center;
+        }
+        
+        .title-2 {
+            font-size: 40px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 500;
+            margin-top: 34vh;
+        }
+        
+        .content-2 {
+            padding: 7px 0;
+            color: grey;
+        }
+        
+        .content-2 p:nth-child(1) {
+            font-size: 26px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 600;
+        }
+        
+        .content-2 p:nth-child(2) {
+            font-size: 26px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 600;
+        }
+        
+        .content-2 p:nth-child(3) {
+            font-size: 24px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 500;
+        }
+    /*Education*/
+
+    /*Skills*/
+        #skills {
+            display: flex;
+            flex-direction: column;
+            border-top: 1px solid grey;
+            width: 100%;
+            height: 100vh;
+            justify-content: left;
+            align-items: center;
+        }
+        
+        .title-3 {
+            font-size: 40px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 500;
+            margin-top: 35vh;
+        }
+        
+        .content-3 {
+            font-size: 45px;
+            color: grey;
+        }
+        
+        .tools img {
+            width: 50px;
+            margin-top: 1vh;
+            margin-bottom: -1vh;
+        }
+    /*Skills*/
+
+    /*Projects*/
+        #projects {
+            display: flex;
+            flex-direction: column;
+            border-top: 1px solid grey;
+            width: 100%;
+            height: 100vh;
+            justify-content: left;
+            align-items: center;
+        }
+
+        .title-4 {
+            font-size: 40px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 500;
+            margin-top: 40vh;
+        }
+
+        .content-4 {
+            font-size: 25px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 550 ;
+        }
+    /*Projects*/
+
+    /*Experience*/
+        #experience {
+            display: flex;
+            flex-direction: column;
+            border-top: 1px solid grey;
+            width: 100%;
+            height: 100vh;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .title-5 {
+            font-size: 35px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 500;
+            text-align: center;
+            margin-top: -5vh;
+        }       
+    /*Experience*/
+}
+/*Tablet*/
